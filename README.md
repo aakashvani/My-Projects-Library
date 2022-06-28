@@ -31,7 +31,7 @@ A brief description of what this project does and who it's for
 
 | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-|  [Project Name]()| [Have a look]() |  |
+|  [Tic Tac Toe](https://github.com/Aakashvani/tic-tac-toe-game)| [Have a look](http://tic-tac-toe-game-taupe.vercel.app/) | **javascript** , **vuejs**  , **tailwindcss** |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
