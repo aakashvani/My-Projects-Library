@@ -15,7 +15,23 @@ Have a Nice Day 🙂
 
 ## ⛓ Links ⛓
 
-#### PROJECTS 💻 
+#### TEAM PROJECTS 👥
+
+| Title  |  Deployed Link   | Tech Stack |
+| :-------- | :------- | :-------------------------------- |
+|  [Max Fashion (Frontend)](https://github.com/Aakashvani/MaxFashion-Clone)| [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** |
+|  [Max Fashion (Backend)](https://github.com/Aakashvani/MaxFashion-Backend)| [Have a look](https://maxfashion-clone.netlify.app/) | **ExpressJS** , **NodeJS** , **MongoDB**|
+<!-- |  [Project Name]()| [Have a look]() |  |
+|  [Project Name]()| [Have a look]() |  |
+|  [Project Name]()| [Have a look]() |  |
+|  [Project Name]()| [Have a look]() |  |
+|  [Project Name]()| [Have a look]() |  |
+|  [Project Name]()| [Have a look]() |  |
+|  [Project Name]()| [Have a look]() |  |
+|  [Project Name]()| [Have a look]() |  |
+ -->
+
+#### SOLO PROJECTS 🏋🏻
 
  | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
@@ -46,18 +62,4 @@ Have a Nice Day 🙂
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  | -->
 
- #### JAVASCRIPT PROJECTS 🦾
-
-| Title  |  Deployed Link   | Tech Stack |
-| :-------- | :------- | :-------------------------------- |
-|  [Max Fashion (Frontend)](https://github.com/Aakashvani/MaxFashion-Clone)| [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** |
-|  [Max Fashion (Backend)](https://github.com/Aakashvani/MaxFashion-Backend)| [Have a look](https://maxfashion-clone.netlify.app/) | **ExpressJS** , **NodeJS** , **MongoDB**|
-<!-- |  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
- -->
+ 
