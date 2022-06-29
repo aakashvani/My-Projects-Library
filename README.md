@@ -1,7 +1,11 @@
 
-# Project Title
+# Welcome🙏🏻
 
-A brief description of what this project does and who it's for
+Thank you for visting... Here you can see my presonal projects / team projects / mini projects which is made by me so far in my developing journey. For each project there is a deployed link through which you can easily visit any of them. Once Again Thank You for Visiting. 
+
+If You link any project you can give that project a ⭐️ Or You can fork that too. 
+
+Have a Nice Day 🙂
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aakash-portfolio-umber.vercel.app/)
@@ -9,12 +13,14 @@ A brief description of what this project does and who it's for
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aakashvani17)
 
 
-## Links
+## ⛓ Links ⛓
 
-#### MERN full-Stack Projects
+#### PROJECTS 💻 
 
-| Title  |  Deployed Link   | Tech Stack |
+ | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
+|  [Portfolio](https://github.com/Aakashvani/aakash-portfolio-website)| [Have a look](https://aakash-portfolio-umber.vercel.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
+<!--|  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
@@ -22,30 +28,31 @@ A brief description of what this project does and who it's for
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
+|  [Project Name]()| [Have a look]() |  | -->
 
 
-#### Mini Projects
+#### MINI PROJECTS 💡
 
 | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [Tic Tac Toe](https://github.com/Aakashvani/tic-tac-toe-game)| [Have a look](http://tic-tac-toe-game-taupe.vercel.app/) | **javascript** , **vuejs**  , **tailwindcss** |
+|  [Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone)| [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **javascript**  , **styled-components**  |
+|  [Modern Landing Page](https://github.com/Aakashvani/react-modern-landing-page)| [Have a look](https://eggeater.netlify.app/) | **ReactJS** , **Javascript** , **TailwindCSS**|
+|  [TODO App](https://github.com/Aakashvani/react-todo-app)| [Have a look](https://react-todo-app-six-beta.vercel.app/) | **ReactJS** , **CSS3** , **Javascript** |
+<!-- |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
+|  [Project Name]()| [Have a look]() |  | -->
 
-#### Javascript Projects
+ #### JAVASCRIPT PROJECTS 🦾
 
 | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
+|  [Max Fashion (Frontend)](https://github.com/Aakashvani/MaxFashion-Clone)| [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** |
+|  [Max Fashion (Backend)](https://github.com/Aakashvani/MaxFashion-Backend)| [Have a look](https://maxfashion-clone.netlify.app/) | **ExpressJS** , **NodeJS** , **MongoDB**|
+<!-- |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
@@ -53,6 +60,4 @@ A brief description of what this project does and who it's for
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
+ -->
