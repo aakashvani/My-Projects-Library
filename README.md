@@ -36,8 +36,8 @@ Have a Nice Day 🙂
  | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [Portfolio](https://github.com/Aakashvani/aakash-portfolio-website)| [Have a look](https://aakash-portfolio-umber.vercel.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
+|  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone)| [Have a look](https://farfetch-com-clone.vercel.app/) | **Javascript** , **HTML** , **CSS** |
 <!--|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
