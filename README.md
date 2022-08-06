@@ -59,8 +59,8 @@ Have a Nice Day 🙂
 |  [URL Shortener](https://github.com/Aakashvani/url-shortener)| [Have a look](https://github.com/Aakashvani/url-shortener) | **nodejs**, **mongodb**, **expressjs** , **ejs** |
 |  [React Search Filter](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-search-filter)| [Have a look](https://react-search-filter-app.vercel.app/) | **React.JS** , **Chakra UI** , **Javascript** |
 |  [Typescript - Todo App](https://github.com/Aakashvani/hello-typescript/tree/main/Projects/todo-app)| [Have a look](https://typescript-todo-app-one.vercel.app/) | **Typescript** , **React.JS** , **CSS** |
-<!--|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  | -->
+|  [Typescript - e-com](https://github.com/Aakashvani/hello-typescript/tree/main/Projects/e-commerce)| [Have a look](https://e-commerce-f43q9uxjh-aakashvani.vercel.app/) | **Typescript** , **React.JS** , **Bootstrap** , **CSS** |
+<!--|  [Project Name]()| [Have a look]() |  | -->
 <!--|  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
