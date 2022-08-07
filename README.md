@@ -60,7 +60,7 @@ Have a Nice Day 🙂
 
 
 
-#### JAVASCRIPT + NODE.JS + EXPRESS.JS
+#### JAVASCRIPT  |  NODE.JS  |  EXPRESS.JS 
 
 
 | Title  |  Deployed Link   | Tech Stack |
