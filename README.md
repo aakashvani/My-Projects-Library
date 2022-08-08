@@ -28,7 +28,7 @@ Have a Nice Day 🙂
 ## SOLO WORK :- [PROJECTS] 🏋🏻
 <!-----------------------------ReactJS----------------------------------->
 <p>
-<img align="center" src="https://img.icons8.com/plasticine/70/000000/react.png"/>
+<img align="center" src="https://img.icons8.com/plasticine/60/000000/react.png"/>
 </p>
 
  | Title  |  Deployed Link   | Tech Stack |
@@ -47,9 +47,9 @@ Have a Nice Day 🙂
 
 <!-----------------------ReactJS + Typescript------------------------------>
 <p>
-<img align="center" src="https://img.icons8.com/plasticine/70/000000/react.png"/>  
- <img align="center" src="https://i.imgur.com/t1LI2Zy.png"/> 
- <img align="center" src="https://img.icons8.com/color/70/000000/typescript.png"/>
+<img align="center" src="https://img.icons8.com/plasticine/60/000000/react.png"/>  
+<img align="center" src="https://i.imgur.com/t1LI2Zy.png"/> 
+<img align="center" src="https://img.icons8.com/color/60/000000/typescript.png"/>
 </p>
 
 
@@ -65,6 +65,14 @@ Have a Nice Day 🙂
 
 
 #### JAVASCRIPT  |  NODE.JS  |  EXPRESS.JS 
+
+<p>
+ <img align="center" src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
+ <img align="center" src="https://i.imgur.com/t1LI2Zy.png"/> 
+ <img align="center" src="https://img.icons8.com/fluency/60/000000/node-js.png"/>
+ 
+ 
+ </p>
 
 
 | Title  |  Deployed Link   | Tech Stack |
