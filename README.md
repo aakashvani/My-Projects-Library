@@ -15,8 +15,6 @@ Have a Nice Day 🙂
 
 
 ## TEAM WORK :- [PROJECTS] 👥
-<hr>
-
 | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [Max Fashion (Frontend)](https://github.com/Aakashvani/MaxFashion-Clone)| [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** |
@@ -24,11 +22,10 @@ Have a Nice Day 🙂
 |  [Walmart Clone](https://github.com/Aakashvani/Walmart-Clone-Unit2-)| [Have a look](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | **Javascript** , **HTML** , **CSS** |
 
 
+<hr>
 
 
 ## SOLO WORK :- [PROJECTS] 🏋🏻
-<hr>
-
 <!-----------------------------ReactJS----------------------------------->
 <p>
 <img align="center" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
@@ -45,12 +42,15 @@ Have a Nice Day 🙂
 
 
 
-
+<hr>
 
 
 <!-----------------------ReactJS + Typescript------------------------------>
-
-#### REACT + TYPESCRIPT
+<p>
+<img align="center" src="https://img.icons8.com/plasticine/100/000000/react.png"/>  
+ <img align="center" src="https://i.imgur.com/t1LI2Zy.png"/> 
+ <img align="center" src="https://img.icons8.com/color/100/000000/typescript.png"/>
+</p>
 
 
 | Title  |  Deployed Link   | Tech Stack |
@@ -60,6 +60,7 @@ Have a Nice Day 🙂
 
 
 
+<hr>
 
 
 
@@ -71,6 +72,11 @@ Have a Nice Day 🙂
 |  [Tic Tac Toe](https://github.com/Aakashvani/tic-tac-toe-game)| [Have a look](http://tic-tac-toe-game-taupe.vercel.app/) | **javascript** , **vuejs**  , **tailwindcss** |
 |  [URL Shortener](https://github.com/Aakashvani/url-shortener)| [Have a look](https://github.com/Aakashvani/url-shortener) | **nodejs**, **mongodb**, **expressjs** , **ejs** |
 |  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone)| [Have a look](https://farfetch-com-clone.vercel.app/) | **Javascript** , **HTML** , **CSS** |
+
+
+
+
+
 
 
 
