@@ -15,6 +15,7 @@ Have a Nice Day 🙂
 
 
 ## TEAM WORK :- [PROJECTS] 👥
+<hr>
 
 | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
@@ -26,10 +27,12 @@ Have a Nice Day 🙂
 
 
 ## SOLO WORK :- [PROJECTS] 🏋🏻
+<hr>
 
 <!-----------------------------ReactJS----------------------------------->
-#### REACT 
-
+<p>
+<img align="center" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+</p>
 
  | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
