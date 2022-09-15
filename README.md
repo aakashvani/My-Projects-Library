@@ -41,6 +41,7 @@ Have a Nice Day 🙂
 | :-------- | :------- | :-------------------------------- |
 [Modern Landing Page](https://github.com/Aakashvani/react-modern-landing-page)| [Have a look](https://eggeater.netlify.app/) | **ReactJS** , **Javascript** , **TailwindCSS**|
 [TODO App](https://github.com/Aakashvani/react-todo-app) | [Have a look](https://react-todo-app-six-beta.vercel.app/) | **ReactJS** , **CSS3** , **Javascript** |
+|  [Job Hunter](https://github.com/Aakashvani/job_hunter.com)| [Have a look](https://job-hunter-com.vercel.app/) | **ReactJS** , **TailwindCSS** |
 |  [React Counter App](https://github.com/Aakashvani/react-counter)| [Have a look](https://testing-two-mu.vercel.app/) | **ReactJS** , **Javascript** |
 |  [React Search Filter](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-search-filter)| [Have a look](https://react-search-filter-app.vercel.app/) | **React.JS** , **Chakra UI** , **Javascript** |
 |  [Typescript - e-com](https://github.com/Aakashvani/hello-typescript/tree/main/Projects/e-commerce)| [Have a look](https://e-commerce-f43q9uxjh-aakashvani.vercel.app/) | **Typescript** , **React.JS** , **Bootstrap** , **CSS** | <!--Add Typescript mini projects-->
