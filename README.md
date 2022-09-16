@@ -29,7 +29,7 @@ Have a Nice Day 🙂
 [Portfolio](https://github.com/Aakashvani/aakash-portfolio-website) [ Frontend ] | [Have a look](https://aakash-portfolio-umber.vercel.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
 [React Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) [ Frontend ] | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
 [Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone)   [ Frontend ] | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
-|  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone) [ Frontend ] | [Have a look](https://farfetch-com-clone.vercel.app/) |  **HTML** , **CSS** , **Javascript** |
+|  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone) [ Frontend ] | [Have a look](https://fakestore-masaischool-project.netlify.app/index.html) |  **HTML** , **CSS** , **Javascript** |
 |  [URL Shortener ](https://github.com/Aakashvani/url-shortener) [ Backend ] | [Have a look](https://github.com/Aakashvani/url-shortener) | **NodeJS**, **MongoDB**, **ExpressJS** , **Ejs** |
 |  [Invoice API](https://github.com/Aakashvani/invoice-api) [ Backend ] | [Have a look](https://github.com/Aakashvani/invoice-api) | **Node.JS** , **Express.JS** , **MongoDB** |
 
