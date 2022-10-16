@@ -17,24 +17,32 @@ Have a Nice Day 🙂
 ## TEAM WORK :- [PROJECTS] 👥
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-|  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Clone) [ Frontend ] | [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** |
-|  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Backend) [ Backend ] | [Have a look](https://maxfashion-clone.netlify.app/) | **ExpressJS** , **NodeJS** , **MongoDB**|
-|  [Walmart Clone](https://github.com/Aakashvani/Walmart-Clone-Unit2-) [ Frontend ] | [Have a look](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | **Javascript** , **HTML** , **CSS** |
+|  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Clone) | [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** |
+|  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Backend) | [Have a look](https://maxfashion-clone.netlify.app/) | **ExpressJS** , **NodeJS** , **MongoDB**|
+|  [Walmart Clone](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | [Have a look](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | **Javascript** , **HTML** , **CSS** |
 <hr>
 
 ## SOLO PROJECTS 🏋🏻
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-|  [MERN Auth app](https://github.com/Aakashvani/mern-auth) [ FullStack ] | [Have a look](https://mern-auth-ak.netlify.app/) | **MongoDB** , **Express.JS** , **React.JS** , **Node.JS** , **Material.UI** | <!--Add MERN STACK Projects-->
-[Portfolio](https://github.com/Aakashvani/aakash-portfolio-website) [ Frontend ] | [Have a look](https://aakash-portfolio-umber.vercel.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
-[React Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) [ Frontend ] | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
-[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone)   [ Frontend ] | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
-|  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone) [ Frontend ] | [Have a look](https://fakestore-masaischool-project.netlify.app/index.html) |  **HTML** , **CSS** , **Javascript** |
+|  [MERN Auth app](https://github.com/Aakashvani/mern-auth) | [Have a look](https://mern-auth-ak.netlify.app/) | **MongoDB** , **Express.JS** , **React.JS** , **Node.JS** , **Material.UI** | <!--Add MERN STACK Projects-->
+[Portfolio](https://github.com/Aakashvani/aakash-portfolio-website)  | [Have a look](https://aakash-portfolio-umber.vercel.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
+|  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone)  | [Have a look](https://fakestore-masaischool-project.netlify.app/index.html) |  **HTML** , **CSS** , **Javascript** |
 |  [URL Shortener ](https://github.com/Aakashvani/url-shortener) [ Backend ] | [Have a look](https://github.com/Aakashvani/url-shortener) | **NodeJS**, **MongoDB**, **ExpressJS** , **Ejs** |
 |  [Invoice API](https://github.com/Aakashvani/invoice-api) [ Backend ] | [Have a look](https://github.com/Aakashvani/invoice-api) | **Node.JS** , **Express.JS** , **MongoDB** |
-|  [Travel Booking App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/travel-booking-app) [ Frontend ] | [Have a look](https://beaches-book-your-trip.vercel.app/) | **ReactJS** , **Javascript** , **TailwindCSS** |
 
 
+
+
+
+<hr>
+
+## FRONTEND PROJECTS ✨
+| Github Repo  |  Deployed Link   | Tech Stack |
+| :-------- | :------- | :-------------------------------- |
+|  [React Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
+|[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone) | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
+|  [Travel Booking App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/travel-booking-app)  | [Have a look](https://beaches-book-your-trip.vercel.app/) | **ReactJS** , **Javascript** , **TailwindCSS** |
 
 
 <hr>
