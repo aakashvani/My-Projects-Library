@@ -14,7 +14,7 @@ Have a Nice Day 🙂
 
 
 
-## TEAM WORK :- [PROJECTS] 👥
+## COLLABORATIVE PROJECTS 👥
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Clone) | [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** |
