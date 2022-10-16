@@ -40,7 +40,7 @@ Have a Nice Day 🙂
 <hr>
 
 
-## SOLO MINI PROJECTS 💡
+## MINI PROJECTS 💡
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 [Modern Landing Page](https://github.com/Aakashvani/react-modern-landing-page)| [Have a look](https://eggeater.netlify.app/) | **ReactJS** , **Javascript** , **TailwindCSS**|
