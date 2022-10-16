@@ -14,7 +14,7 @@ Have a Nice Day 🙂
 
 
 
-## COLLABORATIVE PROJECTS 👥
+## COLLABORATIVE   PROJECTS 👥
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Clone) | [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** |
@@ -22,7 +22,7 @@ Have a Nice Day 🙂
 |  [Walmart Clone](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | [Have a look](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | **Javascript** , **HTML** , **CSS** |
 <hr>
 
-## SOLO PROJECTS 🏋🏻
+## SOLO  PROJECTS 🏋🏻
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [MERN Auth app](https://github.com/Aakashvani/mern-auth) | [Have a look](https://mern-auth-ak.netlify.app/) | **MongoDB** , **Express.JS** , **React.JS** , **Node.JS** , **Material.UI** | <!--Add MERN STACK Projects-->
@@ -37,7 +37,7 @@ Have a Nice Day 🙂
 
 <hr>
 
-## FRONTEND PROJECTS ✨
+## FRONTEND   PROJECTS ✨
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [React Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
@@ -48,7 +48,7 @@ Have a Nice Day 🙂
 <hr>
 
 
-## MINI PROJECTS 💡
+## MINI   PROJECTS 💡
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 [Modern Landing Page](https://github.com/Aakashvani/react-modern-landing-page)| [Have a look](https://eggeater.netlify.app/) | **ReactJS** , **Javascript** , **TailwindCSS**|
