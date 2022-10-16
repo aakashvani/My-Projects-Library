@@ -32,6 +32,10 @@ Have a Nice Day 🙂
 |  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone) [ Frontend ] | [Have a look](https://fakestore-masaischool-project.netlify.app/index.html) |  **HTML** , **CSS** , **Javascript** |
 |  [URL Shortener ](https://github.com/Aakashvani/url-shortener) [ Backend ] | [Have a look](https://github.com/Aakashvani/url-shortener) | **NodeJS**, **MongoDB**, **ExpressJS** , **Ejs** |
 |  [Invoice API](https://github.com/Aakashvani/invoice-api) [ Backend ] | [Have a look](https://github.com/Aakashvani/invoice-api) | **Node.JS** , **Express.JS** , **MongoDB** |
+|  [Travel Booking App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/travel-booking-app) [ Frontend ] | [Have a look](https://beaches-book-your-trip.vercel.app/) | **ReactJS** , **Javascript** , **TailwindCSS** |
+
+
+
 
 <hr>
 
