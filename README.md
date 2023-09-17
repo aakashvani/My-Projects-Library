@@ -17,10 +17,10 @@ Have a Nice Day 🙂
 ## COLLABORATIVE   PROJECTS 👥
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-<!-- |  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Clone) | [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** | -->
 |  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Backend) | [Have a look](https://maxfashion-clone.netlify.app/) | **ExpressJS** , **NodeJS** , **MongoDB**|
 |  [Walmart Clone](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | [Have a look](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | **Javascript** , **HTML** , **CSS** |
 <hr>
+<!-- |  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Clone) | [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** | -->
 
 ## SOLO  PROJECTS 🏋🏻
 | Github Repo  |  Deployed Link   | Tech Stack |
