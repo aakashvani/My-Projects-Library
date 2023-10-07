@@ -1,33 +1,29 @@
-
-# Welcome🙏🏻
-
-Thank you for visting... Here you can see my solo projects / team projects / mini projects which is made by me so far in my developing journey. For each project there is a deployed link through which you can easily visit any of them. Once Again Thank You for Visiting. 
-
-If You link any project you can give that project a ⭐️ Or You can fork that too. 
-
-Have a Nice Day 🙂
-
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aakash-portfolio-umber.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashvani17/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aakashvani17)
-
-
-
-## COLLABORATIVE   PROJECTS 👥
-| Github Repo  |  Deployed Link   | Tech Stack |
-| :-------- | :------- | :-------------------------------- |
-|  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Backend) | [Have a look](https://maxfashion-clone.netlify.app/) | **ExpressJS** , **NodeJS** , **MongoDB**|
-|  [Walmart Clone](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | [Have a look](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | **Javascript** , **HTML** , **CSS** |
+<h1 align="center">Ｍｙ Ｐｒｏｊｅｃｔ Ｌｉｂｒａｒｙ</h1>
+<p align="center">
+  <a href="https://aakash-kumar.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+  <a href="mailto:aakash.krm@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/aakashvani" target="_blank"><img height="25" src = "https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+ <a href="https://instagram.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://medium.com/@aakashvani17" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+</p>
 <hr>
-<!-- |  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Clone) | [Have a look](https://maxfashion-clone.netlify.app/) | **Javascript** , **HTML** , **CSS** | -->
+
+
+
+## HTML | CSS | JAVASCRIPT
+| Github Repo 😸 |  Deployed Link 🚀  | Thinks I Used ⚙️ |
+| :-------- | :------- | :-------------------------------- |
+|  [Sushi.io](https://github.com/aakashvani/sushi.io)| [Have a look](https://sushi-io.netlify.app/) | **HTML** , **CSS** , **Javascript**, **AOS (npm package for Animation)** |
+|  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone)  | [Have a look](https://fakestore-masaischool-project.netlify.app/index.html) |  **HTML** , **CSS** , **Javascript** |
+
 
 ## SOLO  PROJECTS 🏋🏻
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [MERN Auth app](https://github.com/Aakashvani/mern-auth) | [Have a look](https://mern-auth-ak.netlify.app/) | **MongoDB** , **Express.JS** , **React.JS** , **Node.JS** , **Material.UI** | <!--Add MERN STACK Projects-->
 [Portfolio](https://github.com/Aakashvani/aakash-portfolio-website)  | [Have a look](https://aakash-portfolio-umber.vercel.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
-|  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone)  | [Have a look](https://fakestore-masaischool-project.netlify.app/index.html) |  **HTML** , **CSS** , **Javascript** |
 |  [URL Shortener ](https://github.com/Aakashvani/url-shortener) [ Backend ] | [Have a look](https://github.com/Aakashvani/url-shortener) | **NodeJS**, **MongoDB**, **ExpressJS** , **Ejs** |
 |  [Invoice API](https://github.com/Aakashvani/invoice-api) [ Backend ] | [Have a look](https://github.com/Aakashvani/invoice-api) | **Node.JS** , **Express.JS** , **MongoDB** |
 
