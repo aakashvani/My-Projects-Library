@@ -25,7 +25,7 @@
 | Github Repo 😸 |  Deployed Link 🚀  | Thinks I Used ⚙️ |
 | :-------- | :------- | :-------------------------------- |
 | [Summz.io](https://github.com/aakashvani/ai_summarize) | [Have a look](https://main--ai-summarize-51c9e6.netlify.app/) | **React.Js** , **Tailwind CSS** , **Redux ToolKit** , **Rapid APIs** |
-|  [React Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
+|  [Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** , **Open Weather Apis**|
 [Modern Landing Page](https://github.com/Aakashvani/react-modern-landing-page)| [Have a look](https://eggeater.netlify.app/) | **ReactJS** , **Javascript** , **TailwindCSS**|
 [TODO App](https://github.com/Aakashvani/react-todo-app) | [Have a look](https://react-todo-app-six-beta.vercel.app/) | **ReactJS** , **CSS3** , **Javascript** |
 |[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone) | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
