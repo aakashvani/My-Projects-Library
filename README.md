@@ -26,11 +26,10 @@
 | :-------- | :------- | :-------------------------------- |
 | [Summz.io](https://github.com/aakashvani/ai_summarize) | [Have a look](https://main--ai-summarize-51c9e6.netlify.app/) | **React.Js** , **Tailwind CSS** , **Redux ToolKit** , **Rapid APIs** |
 |  [Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** , **Open Weather APIs**|
-[Modern Landing Page](https://github.com/Aakashvani/react-modern-landing-page)| [Have a look](https://eggeater.netlify.app/) | **ReactJS** , **Javascript** , **TailwindCSS**|
 [TODO App](https://github.com/Aakashvani/react-todo-app) | [Have a look](https://react-todo-app-six-beta.vercel.app/) | **ReactJS** , **CSS3** , **Javascript** |
-|[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone) | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
+|[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone) | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Styled-Components**  |
 [Portfolio](https://github.com/Aakashvani/aakash-portfolio-website)  | [Have a look](https://aakash-portfolio-umber.vercel.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
-|  [Travel Booking App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/travel-booking-app)  | [Have a look](https://beaches-book-your-trip.vercel.app/) | **ReactJS** , **Javascript** , **TailwindCSS** |
+|  [Travel Booking App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/travel-booking-app)  | [Have a look](https://beaches-book-your-trip.vercel.app/) | **ReactJS** , **TailwindCSS** |
 
 
 
@@ -52,6 +51,7 @@
 ## MINI   PROJECTS 💡
 | Github Repo 😸 |  Deployed Link 🚀  | Thinks I Used ⚙️ |
 | :-------- | :------- | :-------------------------------- |
+[Modern Landing Page](https://github.com/Aakashvani/react-modern-landing-page)| [Have a look](https://eggeater.netlify.app/) | **ReactJS** , **Javascript** , **TailwindCSS**|
 |  [Job Hunter](https://github.com/Aakashvani/job_hunter.com)| [Have a look](https://job-hunter-com.vercel.app/) | **ReactJS** , **TailwindCSS** |
 |  [React Counter App](https://github.com/Aakashvani/react-counter)| [Have a look](https://testing-two-mu.vercel.app/) | **ReactJS** , **Javascript** |
 |  [React Search Filter](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-search-filter)| [Have a look](https://react-search-filter-app.vercel.app/) | **React.JS** , **Chakra UI** , **Javascript** |
