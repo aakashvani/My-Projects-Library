@@ -62,7 +62,7 @@
 ## BACKEND 💡
 | Github Repo 😸 |  Deployed Link 🚀  | Thinks I Used ⚙️ |
 | :-------- | :------- | :-------------------------------- |
-|  [Invoice API](https://github.com/Aakashvani/invoice-api) [ Backend ] | [Have a look](https://github.com/Aakashvani/invoice-api) | **Node.JS** , **Express.JS** , **MongoDB** |
+|  [Invoice API](https://github.com/Aakashvani/invoice-api) | [Have a look](https://github.com/Aakashvani/invoice-api) | **Node.JS** , **Express.JS** , **MongoDB** |
 
 
 <hr>
