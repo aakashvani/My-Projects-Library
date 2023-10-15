@@ -32,7 +32,7 @@
 |  [Travel Booking App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/travel-booking-app)  | [Have a look](https://beaches-book-your-trip.vercel.app/) | **ReactJS** , **TailwindCSS** |
 
 
-
+<!--
 <br>
 
 
@@ -42,7 +42,7 @@
 | :-------- | :------- | :-------------------------------- |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
-
+-->
 
 
 <br>
