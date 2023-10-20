@@ -32,7 +32,7 @@
 |  [Travel Booking App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/travel-booking-app)  | [Have a look](https://beaches-book-your-trip.vercel.app/) | **ReactJS** , **TailwindCSS** |
 
 
-<!--
+
 <br>
 
 
@@ -40,9 +40,8 @@
 ## FULL STACK APPLICATION
 | Github Repo 😸 |  Deployed Link 🚀  | Thinks I Used ⚙️ |
 | :-------- | :------- | :-------------------------------- |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
--->
+|  [Snip](https://github.com/aakashvani/snip)| [Have a look](https://snip-nine.vercel.app/) | **Next.js** , **TailwindCSS** , **NextAuth** , **Node.js** , **Express.js** , **MongoDB** |
+
 
 
 <br>
