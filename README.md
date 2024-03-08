@@ -101,8 +101,8 @@ Typescript =>         <img align="center" src="https://img.icons8.com/color/60/0
 Express.js =>         <img align="center" src="https://img.icons8.com/nolan/60/express-js.png"/> 
 MongoDb =>            <img align="center" src="https://img.icons8.com/color/60/000000/mongodb.png"/>
 Javascript =>         <img align="center" src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
-Node.js =>            <img align="center" src="https://img.icons8.com/fluency/60/000000/node-js.png"/>
 
+Node.js =>            <img align="center" src="https://img.icons8.com/fluency/60/000000/node-js.png"/>
 -->
 
  
